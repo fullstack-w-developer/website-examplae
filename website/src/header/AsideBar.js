@@ -29,20 +29,20 @@ class AsideBar extends React.Component{
                 
                 <Nav>
                     <Nav.Item className=" font-weigh-bold">
-                        <Nav.Link className="text-white px-4 py-3" href="/">خانه</Nav.Link>
+                        <Nav.Link className="text-white px-4 py-3" href="/website-examplae">خانه</Nav.Link>
                     </Nav.Item>
                     <Nav.Item className=" font-weigh-bold">
-                        <Nav.Link className="text-white px-4 py-3" href="/AboutUs">درباره ی ما</Nav.Link>
+                        <Nav.Link className="text-white px-4 py-3" href="/website-examplae/AboutUs">درباره ی ما</Nav.Link>
                     </Nav.Item>
                     <Nav.Item className=" font-weigh-bold">
-                        <Nav.Link className="text-white px-4 py-3" href="/pricing">قیمت گذاری</Nav.Link>
+                        <Nav.Link className="text-white px-4 py-3" href="/website-examplae/pricing">قیمت گذاری</Nav.Link>
                     </Nav.Item>
 
                     <Nav.Item className=" font-weigh-bold">
-                        <Nav.Link className="text-white px-4 py-3" href="/Blog">بلاگ</Nav.Link>
+                        <Nav.Link className="text-white px-4 py-3" href="/website-examplae/Blog">بلاگ</Nav.Link>
                     </Nav.Item>
                     <Nav.Item className=" font-weigh-bold">
-                        <Nav.Link className="text-white px-4 py-3" href="/ContentUs">تماس با ما</Nav.Link>
+                        <Nav.Link className="text-white px-4 py-3" href="/website-examplae/ContentUs">تماس با ما</Nav.Link>
                     </Nav.Item>
                 </Nav>
                 

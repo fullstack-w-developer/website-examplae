@@ -15,20 +15,20 @@ function NavbarNav() {
                 </Navbar.Brand>
                 <Nav className="px-5">
                     <Nav.Item className="nav-item-nav  font-weight-bold">
-                        <Nav.Link className="nav-link-nav px-3" href="/">خانه</Nav.Link>
+                        <Nav.Link className="nav-link-nav px-3" href="/website-examplae">خانه</Nav.Link>
                     </Nav.Item>
                     <Nav.Item className="nav-item-nav  font-weight-bold">
-                        <Nav.Link className="nav-link-nav px-3" href="/AboutUs">درباره ی ما</Nav.Link>
+                        <Nav.Link className="nav-link-nav px-3" href="/website-examplae/AboutUs">درباره ی ما</Nav.Link>
                     </Nav.Item>
                     <Nav.Item className="nav-item-nav  font-weight-bold">
-                        <Nav.Link className="nav-link-nav px-3" href="/Pricing">قیمت گذاری</Nav.Link>
+                        <Nav.Link className="nav-link-nav px-3" href="/website-examplae/Pricing">قیمت گذاری</Nav.Link>
                     </Nav.Item>
 
                     <Nav.Item className="nav-item-nav  font-weight-bold">
-                        <Nav.Link className="nav-link-nav px-3" href="/Blog">بلاگ</Nav.Link>
+                        <Nav.Link className="nav-link-nav px-3" href="/website-examplae/Blog">بلاگ</Nav.Link>
                     </Nav.Item>
                     <Nav.Item className="nav-item-nav  font-weight-bold">
-                        <Nav.Link className="nav-link-nav px-3" href="/ContentUs">تماس با ما</Nav.Link>
+                        <Nav.Link className="nav-link-nav px-3" href="/website-examplae/ContentUs">تماس با ما</Nav.Link>
                     </Nav.Item>
                     
                 </Nav>

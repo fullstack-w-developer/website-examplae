@@ -18,11 +18,11 @@ function App() {
      <Router>
        
        <Switch>
-         <Route exact path="/" component={Home}/>
-         <Route  path="/AboutUs" component={AboutUs}/>
-         <Route  path="/Blog" component={Blog}/>
-         <Route  path="/ContentUs" component={ContentUs}/>
-         <Route  path="/Pricing" component={Pricing}/>
+         <Route exact path="/website-examplae" component={Home}/>
+         <Route  path="/website-examplae/AboutUs" component={AboutUs}/>
+         <Route  path="/website-examplae/Blog" component={Blog}/>
+         <Route  path="/website-examplae/ContentUs" component={ContentUs}/>
+         <Route  path="/website-examplae/Pricing" component={Pricing}/>
          <Route   component={NoMatch}/>
        </Switch>
      </Router>
