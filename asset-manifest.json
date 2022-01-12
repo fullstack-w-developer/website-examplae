@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/website-examplae/static/css/main.7114d7a0.chunk.css",
+    "main.js": "/website-examplae/static/js/main.45034b7c.chunk.js",
+    "main.js.map": "/website-examplae/static/js/main.45034b7c.chunk.js.map",
+    "runtime-main.js": "/website-examplae/static/js/runtime-main.0ad5c1d1.js",
+    "runtime-main.js.map": "/website-examplae/static/js/runtime-main.0ad5c1d1.js.map",
+    "static/css/2.d6008dad.chunk.css": "/website-examplae/static/css/2.d6008dad.chunk.css",
+    "static/js/2.150e5607.chunk.js": "/website-examplae/static/js/2.150e5607.chunk.js",
+    "static/js/2.150e5607.chunk.js.map": "/website-examplae/static/js/2.150e5607.chunk.js.map",
+    "index.html": "/website-examplae/index.html",
+    "static/css/2.d6008dad.chunk.css.map": "/website-examplae/static/css/2.d6008dad.chunk.css.map",
+    "static/css/main.7114d7a0.chunk.css.map": "/website-examplae/static/css/main.7114d7a0.chunk.css.map",
+    "static/js/2.150e5607.chunk.js.LICENSE.txt": "/website-examplae/static/js/2.150e5607.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/website-examplae/static/media/Vazir.e5a10e75.woff",
+    "static/media/aboutUs.30b38078.png": "/website-examplae/static/media/aboutUs.30b38078.png",
+    "static/media/header.c4f80b96.jpeg": "/website-examplae/static/media/header.c4f80b96.jpeg",
+    "static/media/img1.6478c18f.jpg": "/website-examplae/static/media/img1.6478c18f.jpg",
+    "static/media/img2.ba2360ec.jpg": "/website-examplae/static/media/img2.ba2360ec.jpg",
+    "static/media/img3.cb90ea39.jpg": "/website-examplae/static/media/img3.cb90ea39.jpg",
+    "static/media/img4.dcbc2c03.jpg": "/website-examplae/static/media/img4.dcbc2c03.jpg",
+    "static/media/img5.cf070979.jpg": "/website-examplae/static/media/img5.cf070979.jpg",
+    "static/media/img6.7008255b.jpg": "/website-examplae/static/media/img6.7008255b.jpg",
+    "static/media/img7.00ac9bbc.jpg": "/website-examplae/static/media/img7.00ac9bbc.jpg",
+    "static/media/img8.c7d7dba5.jpg": "/website-examplae/static/media/img8.c7d7dba5.jpg",
+    "static/media/mpbile.3cdce84c.png": "/website-examplae/static/media/mpbile.3cdce84c.png",
+    "static/media/per1.d1103964.jpg": "/website-examplae/static/media/per1.d1103964.jpg",
+    "static/media/per2.ac6b1ffe.jpg": "/website-examplae/static/media/per2.ac6b1ffe.jpg",
+    "static/media/per3.1614bb87.jpg": "/website-examplae/static/media/per3.1614bb87.jpg",
+    "static/media/seaction5.3a1163aa.jpg": "/website-examplae/static/media/seaction5.3a1163aa.jpg",
+    "static/media/section2.54133828.jpeg": "/website-examplae/static/media/section2.54133828.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ad5c1d1.js",
+    "static/css/2.d6008dad.chunk.css",
+    "static/js/2.150e5607.chunk.js",
+    "static/css/main.7114d7a0.chunk.css",
+    "static/js/main.45034b7c.chunk.js"
+  ]
+}
